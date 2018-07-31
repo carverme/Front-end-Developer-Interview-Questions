@@ -5,6 +5,12 @@
 * What kind of things must you be wary of when design or developing for multilingual sites?
 * What are `data-` attributes good for?
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+- HTML5 - canvas
+- CSS3 - media queries
+- ES6 - arrow functions, spread syntax
+- svg
+-
+
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
@@ -17,3 +23,11 @@
 [MDN srcset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-srcset)
 
 * Have you used different HTML templating languages before?
+Add more detail... and how I like to use them individually, and how they best apply.
+- ejs
+- jsx
+- django
+
+
+
+programmatic svg images... research...

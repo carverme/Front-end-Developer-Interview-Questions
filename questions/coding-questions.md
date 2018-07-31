@@ -49,6 +49,8 @@ var foo = {n: 1};
 var bar = foo;
 foo.x = foo = {n: 2};
 ```
+-- foo = number 1, bar = foo, key:pair(n: 2) = foo with two equals, causes it to be undefined.
+
 
 *Question: What does the following code print?*
 ```javascript

@@ -4,6 +4,14 @@
 * What excites or interests you about coding?
 * What is a recent technical challenge you experienced and how did you solve it?
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
+have three ready...
+-decrease file size
+-positioning js at the end of the html to reduce load times
+-using dev tools on chrome
+-using asynchronous calls to preload?
+-depending on the tech, like react...
+-reducing the size of imgs for the need...
+
 * Can you describe some SEO best practices or techniques you have used lately?
 * Can you explain any common techniques or recent issues solved in regards to front-end security?
 * What actions have you personally taken on recent projects to increase maintainability of your code?
